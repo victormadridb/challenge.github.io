@@ -1,7 +1,4 @@
-# AluraChallenge-Encriptador
-Encriptador y desencriptador de texto, desarrollado con HTML, CSS y JavaScript, que forma parte del trayecto formativo del Programa One de Oracle + Alura Latam.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Descripción:
 Encriptador y desencriptador de texto, desarrollado con HTML, CSS y JavaScript, que forma parte del trayecto formativo de Oracle + Alura.
 
@@ -25,7 +22,8 @@ Por ejemplo:
 
 - La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
 - El resultado debe ser mostrado en la pantalla.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Extras:
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del "ctrl+c" o de la opción "copiar" del menú de las aplicaciones.
+
+
